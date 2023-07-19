@@ -1,23 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "xsAk50CWWxHBkW1fzWEnUl6nGQlngMADXlBpl/tB1J2oLjPglsAeG+9aRGqxv5MDMN033sv/cYghuCqXd0cSzg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\stagiaire\\Documents\\GitHub\\MNSApiTest\\MNSApiTest.csproj",
+  "dgSpecHash": "rw6l7XFk5ZE8ziJcofmPdPtirlh7NXnz4lUjGIUVeIvHeDisy/wcxDpLZglkxYaQvagAvCwGyKBqQ7+ubyKzfA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\stagiaire\\source\\repos\\MnsGameApiTest\\MNSApiTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\stagiaire\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\microsoft.net.test.sdk.17.3.2.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.3.2\\microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.testplatform.testhost\\17.3.2\\microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\moq\\4.18.4\\moq.4.18.4.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
@@ -27,7 +22,6 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\runtime.native.system.io.compression.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\runtime.native.system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
@@ -40,13 +34,6 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
@@ -57,10 +44,8 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
@@ -97,7 +82,6 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.cng\\4.3.0\\system.security.cryptography.cng.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
@@ -105,7 +89,6 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
-    "C:\\Users\\stagiaire\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
@@ -117,5 +100,15 @@
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\stagiaire\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\stagiaire\\source\\repos\\WebAPI_MNS_Games\\WebAPI_MNS_Games.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "libraryId": "C:\\Users\\stagiaire\\source\\repos\\WebAPI_MNS_Games\\WebAPI_MNS_Games.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
